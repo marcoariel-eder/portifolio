@@ -4,6 +4,6 @@ The projects will be organized into folders, identified by purpose, such as: "au
 
 ****
 
-# Repositório Portifólio [PT-BR]
+# Repositório Portifolio [PT-BR]
 Neste repositório você encontrará alguns projetos em que atuei e algoritmos desenvolvi, eles atestarão minhas habilidades e experiências com programação.
 Os projetos estarão organizados em pastas, identificadas pela finalidade, como: "automacao > projeto-x > arquivos".
